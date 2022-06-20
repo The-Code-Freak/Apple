@@ -79,7 +79,7 @@ header{
 /*iPhone 11 Pro */
 .iphone-11-pro{
    
-    background: url("/11promax2.jpg");
+    background: url("11promax2.jpg");
     margin-top: 4.4rem;
 }
 
@@ -128,7 +128,7 @@ header{
 
 /*iPhone 11 section*/
 .iphone-11{
-    background: url(/iphone_11_large.jpg);
+    background: url(iphone_11_large.jpg);
 }
 
 .title-dark{
@@ -144,13 +144,13 @@ header{
 }
 
 .watch{
-    background: url(/watch_large.jpg);
+    background: url(watch_large.jpg);
 
 }
 
 .title-heading-watch{
     height: 7.8rem;
-    background: url(/logo_watch_large.png) center no-repeat;
+    background: url(logo_watch_large.png) center no-repeat;
     background-size: auto 7.8rem;
     margin-top: 1.6rem;
 }
