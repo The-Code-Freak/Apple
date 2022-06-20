@@ -62,19 +62,19 @@ header{
 .nav-link-apple{
     width: 1.6rem;
     height: 4.4rem;
-    background: url("/apple.svg") center no-repeat;
+    background: url("apple.png") center no-repeat;
 }
 
 .nav-link-search{
     width: 1.6rem;
     height: 4.4rem;
-    background: url("/search.svg") center no-repeat;
+    background: url("search.png") center no-repeat;
 }
 
 .nav-link-bag{
     width: 1.4rem;
     height: 4.4rem;
-    background: url("/bag.svg") center no-repeat;
+    background: url("bag.png") center no-repeat;
 }
 /*iPhone 11 Pro */
 .iphone-11-pro{
